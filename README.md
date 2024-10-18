@@ -1,5 +1,8 @@
 ## H2N-DEV-interview
 
+## You can also view this code uploaded on Google Colab
+
+<https://colab.research.google.com/drive/1qxf9U7C-GctaGMqBJEKIG4093PgA3dKR?authuser=0#scrollTo=61gk6FXZeh1E>
 
 # XML Processing, JSON Conversion, and Data Handling in Python
 
