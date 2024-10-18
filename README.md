@@ -64,7 +64,7 @@ XML Parsing in Python:
 Resource: Python Official Documentation and Stack Overflow
 
 Handling Errors:
-Resource: ChatGPT, Stac Overflow
+Resource: ChatGPT, Stack Overflow
 
 JSON Handling:
 Resource: Python Official Documentation
